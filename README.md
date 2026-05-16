@@ -12,6 +12,6 @@ I really like the _C3_ programming langauge. It's so cool. I'm also making a pro
 
 ## Solution
 
-I want to build an AI CLI tool that tracks documentation of young/poorly indexed projects. The users would be able to get a new knowledge base by attaching a GitHub repo link. The program would then clone the repo & feed the underlying model the docs. The user could also trigger an update where the tool would go through each repo & simply run `git pull`.
+I want to build an AI Desktop tool that tracks documentation of young/poorly indexed projects. The users would be able to get a new knowledge base by attaching a GitHub repo link. The program would then clone the repo & feed the underlying model the docs. The user could also trigger an update where the tool would go through each repo & simply run `git pull`.
 
-In my mind, this will be like a local CLI-first tool that acts like an agile & specialized [NotebookLLM](https://notebooklm.google).
+In my mind, this will be like a local-first tool that acts like an agile & specialized [NotebookLLM](https://notebooklm.google).
